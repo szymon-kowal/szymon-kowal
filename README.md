@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon Kowal</h1>
-<h3 align="center">Ex-chemical and process engineering and a passionate front-end developer !</h3>
+<h3 align="center">Ex-chemical and process engineer and a passionate front-end developer !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymon-kowal&label=Profile%20views&color=0e75b6&style=flat" alt="szymon-kowal" /> </p>
 
