@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://fb.com/szymonkowal00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szymonkowal00" height="30" width="40" /></a>
 </p>
-<p align="left" style="color:black;font-size:16px;font-weight:700"> Mail : 00szymon.kowal@gmail.com
+<p align="left" style="color:black;font-size:16px;font-weight:700"> 📬 : 00szymon.kowal@gmail.com
 </p>
 
 
