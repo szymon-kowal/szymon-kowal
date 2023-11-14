@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Fast API !**
+- 🌱 I’m currently learning **TypeScript / React !**
 
 - 📫 How to reach me **00szymon.kowal@gmail.com**
 
